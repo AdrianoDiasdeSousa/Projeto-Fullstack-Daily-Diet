@@ -23,9 +23,6 @@ Gerar o client do Prisma (no backend)
 
 cd ../backend
 npx prisma generate
-# se o projeto pedir, também:
-# npx prisma migrate dev
-
 
 Voltar para a raiz do projeto e subir tudo
 
