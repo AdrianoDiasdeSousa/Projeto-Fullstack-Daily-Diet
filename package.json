@@ -1,0 +1,11 @@
+{
+  "name": "daily-diet-launcher",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix ./daily-diet run dev",
+    "studio": "npm --prefix ./daily-diet run studio",
+    "migrate": "npm --prefix ./daily-diet run migrate",
+    "start": "npm --prefix ./daily-diet run start",
+    "build": "npm --prefix ./daily-diet run build"
+  }
+}
